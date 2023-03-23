@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Gabriel 😁
+<h1 align="center">Gabriel Maurício</h1>
+
+Sou formado em Gestão da Tecnologia da Informação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Minha experiência com desenvolvimento começou quando estava cursando o técnico em informática e agora uso um pouco desses conhecimentos para aplicar em projetos interdisciplinares na faculdade. A base de algumas linguagens de programação eu tenho. Nesses projetos foram usados HTML, CSS, JavaScript e Bootstrap para o desenvolvimento Front-end e para o Back-end foi utilizado C# (Web Forms e MVC) e o banco de dados foi a IDE MySQL Workbench. Ao longo dos semestres também utilizei Java para algumas atividades. Em todos os projetos a metodologia escolhida foi a Scrum, Trello para o Kanban e algumas ferramentas de criação de tela.   
+
+
 
  <div>
    <a href="https://github.com/gmauricio21">
