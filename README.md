@@ -2,7 +2,7 @@
 
 Sou formado em Gestão da Tecnologia da Informação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Minha experiência com desenvolvimento começou quando estava cursando o técnico em informática e agora uso um pouco desses conhecimentos para aplicar em projetos interdisciplinares na faculdade. A base de algumas linguagens de programação eu tenho. Nesses projetos foram usados HTML, CSS, JavaScript e Bootstrap para o desenvolvimento Front-end e para o Back-end foi utilizado C# (Web Forms e MVC) e o banco de dados foi a IDE MySQL Workbench. Ao longo dos semestres também utilizei Java para algumas atividades. Em todos os projetos a metodologia escolhida foi a Scrum, Trello para o Kanban e algumas ferramentas de criação de tela.   
 
-
+Atualmente estou a procura de um estágio na área de desenvolvimento. Adoro aprender novos conceitos, vivenciar novos desafios e passar todo conhecimento adquirido para outras pessoas. Sei trabalhar muito bem em equipe, sempre ajudando no que for preciso e necessário. Tenho mente aberta para estar aprendendo coisas novas e que possam fazer a diferença quando for preciso.
 
  <div>
    <a href="https://github.com/gmauricio21">
