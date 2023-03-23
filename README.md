@@ -1,8 +1,24 @@
 <h1 align="center">Gabriel Maurício</h1>
 
-Sou formado em Gestão da Tecnologia da Informação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Minha experiência com desenvolvimento começou quando estava cursando o técnico em informática e agora uso um pouco desses conhecimentos para aplicar em projetos interdisciplinares na faculdade. A base de algumas linguagens de programação eu tenho. Nesses projetos foram usados HTML, CSS, JavaScript e Bootstrap para o desenvolvimento Front-end e para o Back-end foi utilizado C# (Web Forms e MVC) e o banco de dados foi a IDE MySQL Workbench. Ao longo dos semestres também utilizei Java para algumas atividades. Em todos os projetos a metodologia escolhida foi a Scrum, Trello para o Kanban e algumas ferramentas de criação de tela.   
+Sou formado em Gestão da Tecnologia da Informação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde o meu curso técnico em informática, eu desenvolvo projetos interdisciplinares, aplicando minha base em algumas linguagens de programação. Tenho experiência com HTML, CSS, JavaScript e Bootstrap para o desenvolvimento Front-end, e com C# (Web Forms e MVC) para o Back-end. Além disso, já utilizei Java em algumas atividades. O banco de dados que costumo utilizar é a IDE MySQL Workbench.  
 
-Atualmente estou a procura de um estágio na área de desenvolvimento. Adoro aprender novos conceitos, vivenciar novos desafios e passar todo conhecimento adquirido para outras pessoas. Sei trabalhar muito bem em equipe, sempre ajudando no que for preciso e necessário. Tenho mente aberta para estar aprendendo coisas novas e que possam fazer a diferença quando for preciso.
+Durante meus projetos, utilizamos a metodologia Scrum, com o Trello para o Kanban, e algumas ferramentas de criação de tela. Estou sempre aberto a aprender novos conceitos e vivenciar novos desafios. Adoro passar todo conhecimento adquirido para outras pessoas e sou capaz de trabalhar bem em equipe, sempre ajudando no que for preciso. Estou animado para buscar um estágio na área de desenvolvimento e aplicar minhas habilidades em projetos ainda mais desafiadores.
+
+## Habilidades
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
  <div>
    <a href="https://github.com/gmauricio21">
