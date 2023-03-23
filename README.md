@@ -10,34 +10,17 @@ Durante meus projetos, utilizamos a metodologia Scrum, com o Trello para o Kanba
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
- <div>
-   <a href="https://github.com/gmauricio21">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmauricio21"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmauricio21"/>
-   
-   </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-<br>
+## Detalhes
+ [![Gabriel Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmauricio21&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### Pra entrar em contato comigo me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/itsbiel21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielmauricio1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-maur%C3%ADcio-570960112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me/1060390229401415742" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/gmauricio21/gmauricio21/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmauricio21&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/gmauricio21/gmauricio21/blob/output/github-contribution-grid-snake.svg)
  
