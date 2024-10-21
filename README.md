@@ -1,9 +1,5 @@
 <h1 align="center">Gabriel Maurício</h1>
 
-/*Sou formado em Gestão da Tecnologia da Informação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde o meu curso técnico em informática, eu desenvolvo projetos interdisciplinares, aplicando minha base em algumas linguagens de programação. Tenho experiência com HTML, CSS, JavaScript e Bootstrap para o desenvolvimento Front-end, e com C# (Web Forms e MVC) para o Back-end. Além disso, já utilizei Java em algumas atividades. O banco de dados que costumo utilizar é a IDE MySQL Workbench.  
-
-Durante meus projetos, utilizamos a metodologia Scrum, com o Trello para o Kanban, e algumas ferramentas de criação de tela. Estou sempre aberto a aprender novos conceitos e vivenciar novos desafios. Adoro passar todo conhecimento adquirido para outras pessoas e sou capaz de trabalhar bem em equipe, sempre ajudando no que for preciso. Estou animado para buscar um estágio na área de desenvolvimento e aplicar minhas habilidades em projetos ainda mais desafiadores.*/
-
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
